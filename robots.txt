@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lestagelone.github.io/sitemap.html
+Sitemap: https://lestagelone.github.io/app/sitemap.html
+Sitemap: https://lestagelone.github.io/assets/sitemap.html
+Sitemap: https://lestagelone.github.io/css/sitemap.html
+Sitemap: https://lestagelone.github.io/includes/sitemap.html
+Sitemap: https://lestagelone.github.io/item/sitemap.html
+Sitemap: https://lestagelone.github.io/src/sitemap.html
